@@ -10,8 +10,7 @@ This project was created to establish a strong online presence, showcase the com
 
 View the live website here:
 
-https://seventemp.zeestmedia.com/
-
+https://sevenoakshouseclearance.co.uk
 ---
 
 ## Project Overview
