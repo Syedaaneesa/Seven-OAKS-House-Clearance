@@ -6,9 +6,8 @@ This project features a modern, fully responsive WordPress website developed for
 
 ## Live Demo
 
-View the live website here:
+View the live website here: https://sevenoakshouseclearance.co.uk
 
-https://sevenoakshouseclearance.co.uk
 ---
 
 ## Project Overview
