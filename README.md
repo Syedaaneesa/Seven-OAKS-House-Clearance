@@ -12,7 +12,7 @@ View the live website here: [sevenoakshouseclearance](https://sevenoakshouseclea
 
 ## Project Overview
 
-The **Seven OAKS Clearance Service** website was designed with a clean, professional, and user-focused layout that reflects the company's reliability, efficiency, and commitment to exceptional customer service. The design emphasizes clear service presentation, intuitive navigation, and strategic lead-generation elements, making it easy for visitors to find information and request services. With a fully responsive, mobile-friendly structure, the website ensures a seamless and accessible experience across all devices while maintaining a polished and trustworthy online presence.
+The **Seven OAKS Clearance** Service website features a clean, professional, and fully responsive design that highlights the company's services with intuitive navigation and a user-friendly experience. Built for performance and accessibility, it helps generate leads while providing a seamless browsing experience across all devices.
 
 ---
 
