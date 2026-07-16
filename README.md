@@ -1,6 +1,6 @@
 # Seven OAKS Clearance Service Website
 
-This project features a modern, fully responsive WordPress website developed for Seven OAKS Clearance Service, a trusted provider of house clearances, office clearances, garden waste removal, and rubbish collection services. The website is designed with a clean, professional interface that highlights the company's services, making it easy for visitors to find information and request assistance. Built with a strong focus on performance, mobile responsiveness, SEO best practices, and user experience, the platform ensures fast loading times, seamless navigation, and optimal functionality across all devices. By enhancing the company's online presence, the website helps attract new customers, increase inquiries, and support business growth.
+This project features a modern, fully responsive WordPress website developed for Seven OAKS Clearance Service, a trusted provider of house clearances, office clearances, garden waste removal, and rubbish collection services. The website is designed with a clean, professional interface that highlights the company's services, making it easy for visitors to find information and request assistance. Built with a strong focus on performance, mobile responsiveness, SEO best practices, and user experience, the platform ensures fast loading times, seamless navigation, and optimal functionality across all devices. By enhancing the company's online presence, the website helps attract new customers, increase inquiries, and support the business growth.
 
 ---
 
