@@ -2,19 +2,19 @@
 
 This project features a modern, fully responsive WordPress website developed for Seven OAKS Clearance Service, a trusted provider of house clearances, office clearances, garden waste removal, and rubbish collection services. The website is designed with a clean, professional interface that highlights the company's services, making it easy for visitors to find information and request assistance. Built with a strong focus on performance, mobile responsiveness, SEO best practices, and user experience, the platform ensures fast loading times, seamless navigation, and optimal functionality across all devices. By enhancing the company's online presence, the website helps attract new customers, increase inquiries, and support the business growth.
 
----
+
 
 ## Live Demo
 
 View Live Website Here: [sevenoakshouseclearance](https://sevenoakshouseclearance.co.uk)
 
----
+
 
 ## Project Overview
 
 The **Seven OAKS Clearance** Service website features a clean, professional, and fully responsive design that highlights the company's services with intuitive navigation and a user-friendly experience. Built for performance and accessibility, it helps generate leads while providing a seamless browsing experience across all devices.
 
----
+
 
 ## Features
 
@@ -29,7 +29,7 @@ The **Seven OAKS Clearance** Service website features a clean, professional, and
 * Call-to-action sections for customer inquiries
 * Optimized user experience and accessibility
 
----
+
 
 ## Pages Included
 
@@ -42,7 +42,7 @@ The **Seven OAKS Clearance** Service website features a clean, professional, and
 * Rubbish Removal
 * Contact Us
 
----
+
 
 ## Design Highlights
 
@@ -54,7 +54,7 @@ The **Seven OAKS Clearance** Service website features a clean, professional, and
 * Consistent color scheme and visual hierarchy
 * Customer-focused user journey
 
----
+
 
 ## Technologies Used
 
@@ -66,7 +66,7 @@ The **Seven OAKS Clearance** Service website features a clean, professional, and
 * JavaScript
 * MySQL
 
----
+
 
 ## Objectives
 
@@ -77,7 +77,7 @@ The **Seven OAKS Clearance** Service website features a clean, professional, and
 * Ensure full responsiveness across devices
 * Support future business growth
 
----
+
 
 ## Developer Information
 
@@ -85,7 +85,7 @@ The **Seven OAKS Clearance** Service website features a clean, professional, and
 
 **Email:** [saneesa@zeestmedia.com](mailto:saneesa@zeestmedia.com)
 
----
+
 
 ### Homepage
 
