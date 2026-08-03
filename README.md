@@ -83,7 +83,7 @@ The **Seven OAKS Clearance** Service website features a clean, professional, and
 
 **Designed & Developed By:** Syeda Aneesa
 
-**Email:** [saneesa@zeestmedia.com](mailto:saneesa@zeestmedia.com)
+**Email:** [s.shujaat05@gmail.com](mailto:s.shujaat05@gmail.com)
 
 
 
